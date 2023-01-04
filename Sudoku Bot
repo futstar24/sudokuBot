@@ -178,4 +178,4 @@ print("Solution:")
 printBoard(board)
 
 end = time.time()
-print("Runtime:",(end - start))
+print("Total Runtime:",(end - start))
